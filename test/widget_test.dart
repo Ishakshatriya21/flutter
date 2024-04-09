@@ -8,7 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:giftapp/main.dart';
 import 'package:giftsbyai/main.dart';
 
 void main() {
